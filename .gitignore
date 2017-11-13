@@ -1,0 +1,8 @@
+*.doc*
+
+*.pdf
+
+*.Rhistory
+*.xlsx
+*.ppt*
+*.epub
